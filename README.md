@@ -1,6 +1,6 @@
 # INM707-Deep-Reinforcement-Learning
 
-This repo contains various different approaches to train an agent to play the CartPole game and a custom maze environment.
+This repository contains various different approaches to train an agent to play the CartPole game and in a custom maze environment.
 
 
 ## Description
